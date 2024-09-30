@@ -1,0 +1,28 @@
+.EditProduct form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.EditProduct {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header {
+    width: 500px;
+    position: relative;
+}
+.header svg {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+form>div {
+    width: 400px;
+}
+.alert {
+    width: 600px;
+}
